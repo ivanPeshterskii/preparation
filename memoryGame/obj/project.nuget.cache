@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bY5chB0PvM6j36T0U4f1dOtYMVF6SXMkiNQlMQsEEI2KjOhUAQEyUU3Tmb/kfIF9eCUt0USjT6ahGzseYylmUA==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/memoryGame/memoryGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

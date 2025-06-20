@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/bonusScoringSystem/bin/Debug/net6.0/bonusScoringSystem
+/Users/ivanpeshterski/Projects/bonusScoringSystem/bin/Debug/net6.0/bonusScoringSystem.deps.json
+/Users/ivanpeshterski/Projects/bonusScoringSystem/bin/Debug/net6.0/bonusScoringSystem.runtimeconfig.json
+/Users/ivanpeshterski/Projects/bonusScoringSystem/bin/Debug/net6.0/bonusScoringSystem.dll
+/Users/ivanpeshterski/Projects/bonusScoringSystem/bin/Debug/net6.0/bonusScoringSystem.pdb
+/Users/ivanpeshterski/Projects/bonusScoringSystem/obj/Debug/net6.0/bonusScoringSystem.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/bonusScoringSystem/obj/Debug/net6.0/bonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/bonusScoringSystem/obj/Debug/net6.0/bonusScoringSystem.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/bonusScoringSystem/obj/Debug/net6.0/bonusScoringSystem.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/bonusScoringSystem/obj/Debug/net6.0/bonusScoringSystem.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/bonusScoringSystem/obj/Debug/net6.0/bonusScoringSystem.dll
+/Users/ivanpeshterski/Projects/bonusScoringSystem/obj/Debug/net6.0/refint/bonusScoringSystem.dll
+/Users/ivanpeshterski/Projects/bonusScoringSystem/obj/Debug/net6.0/bonusScoringSystem.pdb
+/Users/ivanpeshterski/Projects/bonusScoringSystem/obj/Debug/net6.0/bonusScoringSystem.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/bonusScoringSystem/obj/Debug/net6.0/ref/bonusScoringSystem.dll
